@@ -1,1 +1,1 @@
-# PERSONAL Expense Tracker
+# Personal Expense Tracker
